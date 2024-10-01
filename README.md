@@ -5,7 +5,7 @@
 
 Este repositório contém dois scripts PowerShell que facilitam o backup e o download de arquivos de backup (`.bak`) de um banco de dados SQL Server usando o **Amazon S3**. Estes scripts são úteis para criar uma estratégia de backup automatizada e confiável, que armazena os dados de forma segura na nuvem.
 
-Vale lembrar que toda a estrutura de pastas foi criada no **C:** do windowns tendo AmbientedeBackup como pasta pai e as pastas RestoreSQLServer, BackupSQLServer e Script de Dackup como filhos
+Vale lembrar que toda a estrutura de pastas foi criada no **C:** do windowns tendo AmbientedeBackup como pasta pai e as pastas RestoreSQLServer, BackupSQLServer e Script de Backup como filhos.
 
 ### Scripts Incluídos:
 
